@@ -183,5 +183,5 @@ Este proyecto sirve como guía para:
 * Práctica de rutas limpias y formularios
 * Uso de modelos con base de datos MySQL
 
-
+---
 🧑‍💻 Proyecto desarrollado con fines educativos -
