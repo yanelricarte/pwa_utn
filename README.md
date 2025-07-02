@@ -23,7 +23,7 @@ Proyecto de ejemplo desarrollado con CodeIgniter 4 para trabajar operaciones **C
 
 
 <details>
-## 📁 Estructura general del proyecto
+<summary>📁 Estructura general del proyecto </summary>
 
 ```text
 /app
@@ -51,7 +51,6 @@ Proyecto de ejemplo desarrollado con CodeIgniter 4 para trabajar operaciones **C
 
 </details>
 
----
 
 <details>
 <summary>🚦 Rutas configuradas en <code>app/Config/Routes.php</code></summary>
@@ -68,7 +67,6 @@ $routes->post('productos/guardar',       'StockController::actualizarStock/0');
 
 </details>
 
----
 
 <details>
 <summary>🧠 ¿Qué aprendimos en esta clase?</summary>
@@ -82,7 +80,6 @@ $routes->post('productos/guardar',       'StockController::actualizarStock/0');
 
 </details>
 
----
 
 <details>
 <summary>📚 Conceptos clave trabajados</summary>
@@ -106,7 +103,6 @@ CodeIgniter es un framework PHP liviano, basado en el patrón Modelo-Vista-Contr
 
 </details>
 
----
 
 <details>
 <summary>📌 Paso a paso</summary>
@@ -125,7 +121,6 @@ CodeIgniter es un framework PHP liviano, basado en el patrón Modelo-Vista-Contr
 
 </details>
 
----
 
 <details>
 <summary>🚀 Instalación y ejecución en local</summary>
@@ -163,7 +158,6 @@ php spark serve
 
 </details>
 
----
 
 <details>
 <summary>🚧 Próximos pasos</summary>
@@ -179,7 +173,6 @@ php spark serve
 
 </details>
 
----
 
 ## 📘 Recursos para estudiantes
 
@@ -190,8 +183,5 @@ Este proyecto sirve como guía para:
 * Práctica de rutas limpias y formularios
 * Uso de modelos con base de datos MySQL
 
----
 
-## 🧑‍💻 
-
-Proyecto desarrollado con fines educativos -
+🧑‍💻 Proyecto desarrollado con fines educativos -
