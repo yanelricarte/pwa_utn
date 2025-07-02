@@ -195,6 +195,6 @@ Este proyecto sirve como guía para:
 
 ---
 
-## 🧑‍💻 Autoría y licencia
+## 🧑‍💻 
 
-Proyecto desarrollado con fines educativos por \[Nombre del docente o institución].
+Proyecto desarrollado con fines educativos -
