@@ -4,7 +4,6 @@ Proyecto de ejemplo desarrollado con CodeIgniter 4 para trabajar operaciones **C
 
 > 🌱 Recurso pedagógico para estudiantes que comienzan a trabajar con frameworks MVC en PHP.
 
----
 
 ## 🔧 Tecnologías utilizadas
 
@@ -13,7 +12,6 @@ Proyecto de ejemplo desarrollado con CodeIgniter 4 para trabajar operaciones **C
 * **MySQL / MariaDB**
 * **HTML + CSS**
 
----
 
 ## 🌟 Objetivos del proyecto
 
@@ -23,10 +21,9 @@ Proyecto de ejemplo desarrollado con CodeIgniter 4 para trabajar operaciones **C
 * Comprender el ruteo mediante `Routes.php`
 * Enviar y recibir datos mediante formularios
 
----
 
 <details>
-<summary>📁 Estructura general del proyecto</summary>
+## 📁 Estructura general del proyecto
 
 ```text
 /app
@@ -191,7 +188,7 @@ Este proyecto sirve como guía para:
 * Introducción práctica a MVC con PHP
 * Comprensión de flujo de datos entre vistas y controladores
 * Práctica de rutas limpias y formularios
-* Uso básico de modelos con base de datos MySQL
+* Uso de modelos con base de datos MySQL
 
 ---
 
